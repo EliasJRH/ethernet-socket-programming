@@ -1,7 +1,7 @@
 import socket
 import struct
 
-MCAST_GRP = '224.1.1.1'
+MCAST_GRP = '239.100.110.210'
 MCAST_PORT = 5007
 
 # Create the socket
